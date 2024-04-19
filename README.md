@@ -1,4 +1,4 @@
-### Updating the Fed conventional and unconventional policy shocks from: Marek Jarocinski "Estimating the Fed's Unconventional Monetary Policy Shocks," Journal of Monetary Economics, doi:10.1016/j.jmoneco.2024.01.001
+### Updating the Fed conventional and unconventional policy shocks from: Marek Jarocinski "Estimating the Fed's Unconventional Monetary Policy Shocks," Journal of Monetary Economics, [doi:10.1016/j.jmoneco.2024.01.001](https://doi.org/10.1016/j.jmoneco.2024.01.001)
 
 #### Updated shocks:
 - `U1s.csv` - one standard deviation shocks
