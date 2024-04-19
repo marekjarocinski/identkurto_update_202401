@@ -12,4 +12,4 @@
 
 These codes were tested using Matlab R2023b.
 
-Marek Jarocinski, marek.jarocinski@gmail.comm
+Marek Jarocinski, marek.jarocinski@gmail.com
